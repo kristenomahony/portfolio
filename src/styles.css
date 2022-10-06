@@ -258,4 +258,11 @@ form button:hover {
 .thanks.show-pop-up {
     display: block;
     margin: 20px;
+    width: 70vw;
+    height: 10vh;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
 }
